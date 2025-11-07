@@ -1,6 +1,6 @@
 # Name & Email Standardization – FastAPI + SQLite
 
-Practical project to teach string concepts and methods in Python, using **FastAPI** and **SQLite**.
+Practical project learn string concepts and methods in Python, using **FastAPI** and **SQLite**.
 
 ---
 
@@ -108,7 +108,7 @@ curl -X POST "http://localhost:8000/users/"   -H "Content-Type: application/json
   }'
 ```
 
-#### 🧾 Sample Response
+#### 🧾 Sample Response 1
 
 ```json
 {
@@ -131,7 +131,7 @@ curl -X POST "http://localhost:8000/users/"   -H "Content-Type: application/json
 curl "http://localhost:8000/users/"
 ```
 
-#### 🧾 Sample Response
+#### 🧾 Sample Response 2
 
 ```json
 [
